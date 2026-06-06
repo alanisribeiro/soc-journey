@@ -1,4 +1,4 @@
-# 🛡️ SOC Journey — Suporte de TI → Segurança da Informação
+# 🛡️ SOC Journey — Segurança da Informação
 
 > Diário de bordo da minha transição de Analista de Suporte Júnior para Analista de SOC / Blue Team.
 > Cada fase termina com algo prático e documentado. Cada lab vira um registro aqui.
@@ -11,7 +11,7 @@
 
 ## 📍 Status atual
 
-`Fase 0 — Fundamentos sólidos` · iniciado em _[preencher data]_
+`Fase 0 — Fundamentos sólidos` · iniciado em 06/06/2026
 
 ```
 [░░░░░░░░░░] Fase 0 — Fundamentos sólidos
