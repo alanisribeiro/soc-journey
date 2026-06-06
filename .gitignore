@@ -1,0 +1,13 @@
+# Evidências sensíveis — nunca commitar dados reais do trabalho
+*.pcap
+*.evtx
+**/dados-reais/
+**/evidencias-privadas/
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
