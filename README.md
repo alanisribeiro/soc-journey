@@ -11,7 +11,7 @@
 
 ## 📍 Status atual
 
-`Fase 0 — Fundamentos sólidos` · iniciado em 06/06/2026
+`Fase 0 — Fundamentos sólidos` · iniciado em _06/06/2026_
 
 ```
 [░░░░░░░░░░] Fase 0 — Fundamentos sólidos
