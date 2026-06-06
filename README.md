@@ -56,13 +56,13 @@ Para cada uma: o que é, como detectar nos logs, como mitigar.
 
 ## 📜 Certificações
 
-| Ordem | Certificação | Custo | Quando | Status |
+| Ordem | Certificação | Quando | Status |
 |-------|-------------|-------|--------|--------|
-| 1 | **Fortinet FCF in Cybersecurity** | Gratuita (PT) | Fim da Fase 0 | ⬜ |
-| 2 | **Microsoft SC-900** | Curso grátis · prova ~US$99 (buscar voucher) | Após Fase 2 | ⬜ |
-| 3 | **CompTIA Security+** | Paga (alta) — planejar com FIAP/empregador | Médio prazo | ⬜ |
+| 1 | **Fortinet FCF in Cybersecurity** | Fim da Fase 0 | ⬜ |
+| 2 | **Microsoft SC-900** |  Após Fase 2 | ⬜ |
+| 3 | **CompTIA Security+** |  Médio prazo | ⬜ |
 
-> Detalhes e materiais gratuitos em [`/certificacoes`](./certificacoes/).
+> Detalhes e materiais em [`/certificacoes`](./certificacoes/).
 
 ---
 
